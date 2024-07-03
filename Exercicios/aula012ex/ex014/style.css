@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+    background: rgb(70,142, 236);
+    font: normal 15pt Arial;
+
+}
+header{
+    color: white;
+    text-align: center;
+
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.541);
+    
+    
+
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+ img{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.671);
+    box-sizing: border-box;
+    
+    
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    
+}
